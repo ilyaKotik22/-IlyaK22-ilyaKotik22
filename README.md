@@ -4,10 +4,10 @@
   
 </div>
 
-# 💬 Обо мне
+## 💬 Обо мне
 Я - начинающий Frontend разработчик. Сейчас учусь в колледже. Обучаюсь сам по видео курсам с ютуба.
 
-# 🔨 Мой стек
+## 🔨 Мой стек
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -23,7 +23,7 @@
   <img width="12" />
 </div>
 
-# 💼 Мои проекты
+## 💼 Мои проекты
 
 <div>Todo list</div>
 <div>https://ilyakotik22.github.io/todo-buisnes/</div>
