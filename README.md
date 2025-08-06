@@ -3,7 +3,8 @@
 <h1 align="center">Привет Меня зовут Илья!</h1>
 
 ###
-##
+
+
 Мой Стек
 <div align="left">
 
@@ -20,4 +21,4 @@
   <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
   <img width="12" />
 </div>
-##
+
