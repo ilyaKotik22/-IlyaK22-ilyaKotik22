@@ -57,7 +57,7 @@
 
 ###
 
-<div>https://ilyakotik22.github.io/todo-buisnes/</div>
+<div><a href='https://ilyakotik22.github.io/todo-buisnes/'>https://ilyakotik22.github.io/todo-buisnes/</a></div>
 <div>Небольшое приложение ежедневник, имеющий в себе фильтрацию, приятный интерфейс и работающий на localStorage(без backend части)</div>
 
 
