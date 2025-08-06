@@ -2,7 +2,8 @@
  
   # Привет Меня зовут Илья!
 
-  ## Frontend разработчик
+ <h2 style="border-bottom: none !important;">Frontend разработчик</h2>
+
   
 </div>
 
