@@ -1,6 +1,6 @@
 <div align='center'>
   <h1>Привет Меня зовут Илья!</h1>
-  <h2 >Frontend разработчик</h2>
+  <div font-size=22 >Frontend разработчик</div>
 </div>
 
 
