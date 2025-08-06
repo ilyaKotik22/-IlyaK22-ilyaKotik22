@@ -9,7 +9,7 @@
 </div>
 
 
-[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/ваш_ник)](https://t.me/ваш_ник)
+
 
 ### 💬 Обо мне
 Я учусь в колледже и активно осваиваю веб-разработку через YouTube-курсы, практику и хакатоны.
