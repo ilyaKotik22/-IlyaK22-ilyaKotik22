@@ -64,7 +64,9 @@
 ###
 
 <h3 align="left">Интернет магазин</h3>
-<div>https://github.com/ilyaKotik22/projectwild</div>
+
 ###
 
+
+<div>https://github.com/ilyaKotik22/projectwild</div>
 <div>Интернет магазин с базовым функционалом - корзина, фильтры, регистрация</div>
