@@ -29,6 +29,13 @@
   <img width="12" />
 </div>
 
+
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)](https://github.com/ВАШ_НИК)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin)](ССЫЛКА)  
+
+![Статистика](https://github-readme-stats.vercel.app/api?username=ВАШ_НИК&show_icons=true)  
+![Стрик](https://github-readme-streak-stats.herokuapp.com/?user=ВАШ_НИК)  
+
 ## 💼 Мои проекты
 
 ###
