@@ -1,10 +1,11 @@
 <div align='center'>
  
-  # Привет Меня зовут Илья!
+  # Привет, меня зовут Илья!
 
   <a href='https://t.me/IlyaK2_2'>
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   <a/>
+   [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/ваш_ник)](https://t.me/ваш_ник)
 </div>
 
 ### 💬 Обо мне
