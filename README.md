@@ -1,13 +1,12 @@
 <div align='center'>
  
   # Привет Меня зовут Илья!
-
- <h2 style="border-bottom: none !important;">Frontend разработчик</h2>
-
   
 </div>
 
-# Frontend разработчик
+# Обо мне
+Frontend разработчик
+
 
 # Мой стек
 <div align="left">
