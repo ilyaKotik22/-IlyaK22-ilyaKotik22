@@ -1,10 +1,10 @@
 <div align='center'>
   <h1>Привет Меня зовут Илья!</h1>
-  #Frontend разработчик
+  # Frontend разработчик
 </div>
 
 
-<h2>Мой стек</h2>
+# Мой стек
 <div align="left">
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
