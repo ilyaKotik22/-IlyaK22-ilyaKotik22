@@ -57,7 +57,8 @@
 
 ###
 
-<div><a href='https://ilyakotik22.github.io/todo-buisnes/'>https://ilyakotik22.github.io/todo-buisnes/</a></div>
+<div><a href='https://ilyakotik22.github.io/todo-buisnes/'>Протестировать можно тут <---</a></div>
+<div><a href='https://github.com/ilyaKotik22/todo-buisnes'>https://github.com/ilyaKotik22/todo-buisnes</a></div>
 <div>Небольшое приложение ежедневник, имеющий в себе фильтрацию, приятный интерфейс и работающий на localStorage(без backend части)</div>
 
 
