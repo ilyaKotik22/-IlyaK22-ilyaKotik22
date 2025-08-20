@@ -58,7 +58,7 @@
 ###
 
 <div><a href='https://ilyakotik22.github.io/todo-buisnes/'>Протестировать можно тут <---</a></div>
-<div><a href='https://github.com/ilyaKotik22/todo-buisnes'>https://github.com/ilyaKotik22/todo-buisnes</a></div>
+<div><a href='https://github.com/ilyaKotik22/todo-buisnes'>Репозиторий проекта</a></div>
 <div>Небольшое приложение ежедневник, имеющий в себе фильтрацию, приятный интерфейс и работающий на localStorage(без backend части)</div>
 
 
@@ -69,7 +69,7 @@
 ###
 
 
-<div>https://github.com/ilyaKotik22/projectwild</div>
+<div> <a href='https://github.com/ilyaKotik22/projectwild'>Репозиторий проекта</a></div>
 <div>Интернет магазин с базовым функционалом - корзина, фильтры, регистрация, с серверной частью</div>
 
 
@@ -79,5 +79,5 @@
 
 ###
 
-<div>https://github.com/ilyaKotik22/news_board</div>
+<div><a href='https://github.com/ilyaKotik22/news_board'>Репозиторий проекта</a></div>
 <div>Новостной сайт с фильтрацией по темам, регистрацией, лайками и комментариями.</div>
