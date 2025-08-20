@@ -70,3 +70,13 @@
 
 <div>https://github.com/ilyaKotik22/projectwild</div>
 <div>Интернет магазин с базовым функционалом - корзина, фильтры, регистрация, с серверной частью</div>
+
+
+###
+
+<h3 align="left">News board</h3>
+
+###
+
+<div>https://github.com/ilyaKotik22/news_board</div>
+<div>Новостной сайт с фильтрацией по темам, регистрацией, лайками и комментариями.</div>
